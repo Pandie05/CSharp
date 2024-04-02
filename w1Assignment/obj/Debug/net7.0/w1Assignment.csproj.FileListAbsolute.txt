@@ -1,0 +1,15 @@
+C:\Users\008021262\Desktop\CSharp\w1Assignment\obj\Debug\net7.0\w1Assignment.csproj.AssemblyReference.cache
+C:\Users\008021262\Desktop\CSharp\w1Assignment\obj\Debug\net7.0\w1Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\008021262\Desktop\CSharp\w1Assignment\obj\Debug\net7.0\w1Assignment.AssemblyInfoInputs.cache
+C:\Users\008021262\Desktop\CSharp\w1Assignment\obj\Debug\net7.0\w1Assignment.AssemblyInfo.cs
+C:\Users\008021262\Desktop\CSharp\w1Assignment\obj\Debug\net7.0\w1Assignment.csproj.CoreCompileInputs.cache
+C:\Users\008021262\Desktop\CSharp\w1Assignment\bin\Debug\net7.0\w1Assignment.exe
+C:\Users\008021262\Desktop\CSharp\w1Assignment\bin\Debug\net7.0\w1Assignment.deps.json
+C:\Users\008021262\Desktop\CSharp\w1Assignment\bin\Debug\net7.0\w1Assignment.runtimeconfig.json
+C:\Users\008021262\Desktop\CSharp\w1Assignment\bin\Debug\net7.0\w1Assignment.dll
+C:\Users\008021262\Desktop\CSharp\w1Assignment\bin\Debug\net7.0\w1Assignment.pdb
+C:\Users\008021262\Desktop\CSharp\w1Assignment\obj\Debug\net7.0\w1Assignment.dll
+C:\Users\008021262\Desktop\CSharp\w1Assignment\obj\Debug\net7.0\refint\w1Assignment.dll
+C:\Users\008021262\Desktop\CSharp\w1Assignment\obj\Debug\net7.0\w1Assignment.pdb
+C:\Users\008021262\Desktop\CSharp\w1Assignment\obj\Debug\net7.0\w1Assignment.genruntimeconfig.cache
+C:\Users\008021262\Desktop\CSharp\w1Assignment\obj\Debug\net7.0\ref\w1Assignment.dll
