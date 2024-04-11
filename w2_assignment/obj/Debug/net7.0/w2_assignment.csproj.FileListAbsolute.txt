@@ -1,0 +1,15 @@
+C:\Users\hendr\OneDrive\Desktop\CSharp\w2_assignment\bin\Debug\net7.0\w2_assignment.exe
+C:\Users\hendr\OneDrive\Desktop\CSharp\w2_assignment\bin\Debug\net7.0\w2_assignment.deps.json
+C:\Users\hendr\OneDrive\Desktop\CSharp\w2_assignment\bin\Debug\net7.0\w2_assignment.runtimeconfig.json
+C:\Users\hendr\OneDrive\Desktop\CSharp\w2_assignment\bin\Debug\net7.0\w2_assignment.dll
+C:\Users\hendr\OneDrive\Desktop\CSharp\w2_assignment\bin\Debug\net7.0\w2_assignment.pdb
+C:\Users\hendr\OneDrive\Desktop\CSharp\w2_assignment\obj\Debug\net7.0\w2_assignment.csproj.AssemblyReference.cache
+C:\Users\hendr\OneDrive\Desktop\CSharp\w2_assignment\obj\Debug\net7.0\w2_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hendr\OneDrive\Desktop\CSharp\w2_assignment\obj\Debug\net7.0\w2_assignment.AssemblyInfoInputs.cache
+C:\Users\hendr\OneDrive\Desktop\CSharp\w2_assignment\obj\Debug\net7.0\w2_assignment.AssemblyInfo.cs
+C:\Users\hendr\OneDrive\Desktop\CSharp\w2_assignment\obj\Debug\net7.0\w2_assignment.csproj.CoreCompileInputs.cache
+C:\Users\hendr\OneDrive\Desktop\CSharp\w2_assignment\obj\Debug\net7.0\w2_assignment.dll
+C:\Users\hendr\OneDrive\Desktop\CSharp\w2_assignment\obj\Debug\net7.0\refint\w2_assignment.dll
+C:\Users\hendr\OneDrive\Desktop\CSharp\w2_assignment\obj\Debug\net7.0\w2_assignment.pdb
+C:\Users\hendr\OneDrive\Desktop\CSharp\w2_assignment\obj\Debug\net7.0\w2_assignment.genruntimeconfig.cache
+C:\Users\hendr\OneDrive\Desktop\CSharp\w2_assignment\obj\Debug\net7.0\ref\w2_assignment.dll
