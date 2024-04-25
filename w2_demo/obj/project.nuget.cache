@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "iNg72ZCOI2zxBr6WLOn1GXVUj2woYnibbsSwY/diO2mQDf2SkbYHPZL2X7Q6tN/NE2fhI1nkz8U92dnyBTDjVA==",
+  "dgSpecHash": "LlUkeQGNQjbigL+2a1qP5mLZwPZ96jUCFzseC/DvfEODASBCFeva4w/s61kGdmnwcHChso8XAUmkqMbnqMu7Xg==",
   "success": true,
   "projectFilePath": "C:\\Users\\hendr\\OneDrive\\Desktop\\CSharp\\w2_demo\\w2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hendr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\hendr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\hendr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\hendr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,15 @@
+C:\Users\hendr\OneDrive\Desktop\CSharp\w4_assignment\bin\Debug\net8.0\w4_assignment.exe
+C:\Users\hendr\OneDrive\Desktop\CSharp\w4_assignment\bin\Debug\net8.0\w4_assignment.deps.json
+C:\Users\hendr\OneDrive\Desktop\CSharp\w4_assignment\bin\Debug\net8.0\w4_assignment.runtimeconfig.json
+C:\Users\hendr\OneDrive\Desktop\CSharp\w4_assignment\bin\Debug\net8.0\w4_assignment.dll
+C:\Users\hendr\OneDrive\Desktop\CSharp\w4_assignment\bin\Debug\net8.0\w4_assignment.pdb
+C:\Users\hendr\OneDrive\Desktop\CSharp\w4_assignment\obj\Debug\net8.0\w4_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hendr\OneDrive\Desktop\CSharp\w4_assignment\obj\Debug\net8.0\w4_assignment.AssemblyInfoInputs.cache
+C:\Users\hendr\OneDrive\Desktop\CSharp\w4_assignment\obj\Debug\net8.0\w4_assignment.AssemblyInfo.cs
+C:\Users\hendr\OneDrive\Desktop\CSharp\w4_assignment\obj\Debug\net8.0\w4_assignment.csproj.CoreCompileInputs.cache
+C:\Users\hendr\OneDrive\Desktop\CSharp\w4_assignment\obj\Debug\net8.0\w4_assignment.sourcelink.json
+C:\Users\hendr\OneDrive\Desktop\CSharp\w4_assignment\obj\Debug\net8.0\w4_assignment.dll
+C:\Users\hendr\OneDrive\Desktop\CSharp\w4_assignment\obj\Debug\net8.0\refint\w4_assignment.dll
+C:\Users\hendr\OneDrive\Desktop\CSharp\w4_assignment\obj\Debug\net8.0\w4_assignment.pdb
+C:\Users\hendr\OneDrive\Desktop\CSharp\w4_assignment\obj\Debug\net8.0\w4_assignment.genruntimeconfig.cache
+C:\Users\hendr\OneDrive\Desktop\CSharp\w4_assignment\obj\Debug\net8.0\ref\w4_assignment.dll
