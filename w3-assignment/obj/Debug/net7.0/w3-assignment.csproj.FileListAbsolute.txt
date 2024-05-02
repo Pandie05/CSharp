@@ -1,0 +1,15 @@
+C:\Users\hendr\OneDrive\Desktop\CSharp\w3-assignment\bin\Debug\net7.0\w3-assignment.exe
+C:\Users\hendr\OneDrive\Desktop\CSharp\w3-assignment\bin\Debug\net7.0\w3-assignment.deps.json
+C:\Users\hendr\OneDrive\Desktop\CSharp\w3-assignment\bin\Debug\net7.0\w3-assignment.runtimeconfig.json
+C:\Users\hendr\OneDrive\Desktop\CSharp\w3-assignment\bin\Debug\net7.0\w3-assignment.dll
+C:\Users\hendr\OneDrive\Desktop\CSharp\w3-assignment\bin\Debug\net7.0\w3-assignment.pdb
+C:\Users\hendr\OneDrive\Desktop\CSharp\w3-assignment\obj\Debug\net7.0\w3-assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hendr\OneDrive\Desktop\CSharp\w3-assignment\obj\Debug\net7.0\w3-assignment.AssemblyInfoInputs.cache
+C:\Users\hendr\OneDrive\Desktop\CSharp\w3-assignment\obj\Debug\net7.0\w3-assignment.AssemblyInfo.cs
+C:\Users\hendr\OneDrive\Desktop\CSharp\w3-assignment\obj\Debug\net7.0\w3-assignment.csproj.CoreCompileInputs.cache
+C:\Users\hendr\OneDrive\Desktop\CSharp\w3-assignment\obj\Debug\net7.0\w3-assignment.sourcelink.json
+C:\Users\hendr\OneDrive\Desktop\CSharp\w3-assignment\obj\Debug\net7.0\w3-assignment.dll
+C:\Users\hendr\OneDrive\Desktop\CSharp\w3-assignment\obj\Debug\net7.0\refint\w3-assignment.dll
+C:\Users\hendr\OneDrive\Desktop\CSharp\w3-assignment\obj\Debug\net7.0\w3-assignment.pdb
+C:\Users\hendr\OneDrive\Desktop\CSharp\w3-assignment\obj\Debug\net7.0\w3-assignment.genruntimeconfig.cache
+C:\Users\hendr\OneDrive\Desktop\CSharp\w3-assignment\obj\Debug\net7.0\ref\w3-assignment.dll

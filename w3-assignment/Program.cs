@@ -9,36 +9,86 @@ namespace w3_assignment
     class Program
     {
 
-        static void GetRandomPoint(ref Point p)
-        {
-            Random r = new Random();
-            p.X = r.Next(0, 100);
-            p.Y = r.Next(0, 100);
-        }
-
         static void Main(string[] args)
         {
+
+            //starting lists
         
-            //define point structure
-            struct Point
+            List<string> names = new List<string>();
+            List<int> hoursWorked = new List<int>();
+            List<double> hourlyRates = new List<double>();
+            List<double> taxBrackets = new List<double>();
+            string answer;
+
+            //begining user input loop (do while loop)
+            do
             {
-                public int X;
-                public int Y;
+                Console.Write("Enter employee name: ");
+                string name = Console.ReadLine();
 
-                public Point(int x, int y)
-                {
+                names.Add(name);
 
-                    X = x;
-                    Y = y;
+                //apend to list
+                hoursWorked.Add(GetIntInput("Enter hours worked: "));
+                hourlyRates.Add(GetDoubleInput("Enter hourly rate: "));
+                taxBrackets.Add(GetDoubleInput("Tax (as decimal): "));
 
-                }
+                Console.Write("Do you want to enter another employee? (y/n): ");
+                answer = Console.ReadLine().ToLower();
 
+            } while (answer == "y");
+
+            //output loop
+            double totalIncome = 0;
+            for (int i = 0; i < names.Count; i++)
+            {
+                double pay = CalcPay(hoursWorked[i], hourlyRates[i], taxBrackets[i]);
+                Console.WriteLine($"{names[i]}'s pay is {pay}");
+                totalIncome += pay;
             }
 
-            //create a point object
+            //average income calc
+            double averageIncome = totalIncome / names.Count;
+            Console.WriteLine($"The average income is {averageIncome}");
 
-            Point p1 = new Point(10, 20);
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadKey();
+        }
 
+        //input valid method
+        static int GetIntInput(string prompt){
+        
+            int value;
+            Console.Write(prompt);
+
+            while (!int.TryParse(Console.ReadLine(), out value))
+            {
+                Console.WriteLine("Invalid input. Please enter a valid integer.");
+                Console.Write(prompt);
+            }
+            return value;
+        }
+
+        //user input method
+        static double GetDoubleInput(string prompt){
+        
+            double value;
+            Console.Write(prompt);
+
+            while (!double.TryParse(Console.ReadLine(), out value))
+            {
+                Console.WriteLine("Invalid input. Please enter a valid number.");
+                Console.Write(prompt);
+            }
+            return value;
+        }
+
+        //calc method
+        static double CalcPay(int hours, double rate, double taxBracket)
+        {
+            double grossPay = hours * rate;
+            double tax = grossPay * taxBracket;
+            return grossPay - tax;
         }
     }
 }
