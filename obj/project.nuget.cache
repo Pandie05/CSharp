@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xq6z4hWz6wjTmnGUJsaTR6BynbcgDjDWOqULRZppMIoybfpPsjdins0WZ2klASaclXmHkZQnLj3ZnMG9LA/Z/g==",
+  "dgSpecHash": "tgjofMGhXKrCp/53VDmhZObCCZs4rtz+W8Aixyt9aEalJCPIahAwqSoTkSd6AU4DOTWKqSAYQHgb0mkK0EvClA==",
   "success": true,
   "projectFilePath": "C:\\Users\\hendr\\OneDrive\\Desktop\\CSharp\\CSharp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hendr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\hendr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\hendr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
-    "C:\\Users\\hendr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.18\\microsoft.netcore.app.host.win-x64.7.0.18.nupkg.sha512"
+    "C:\\Users\\hendr\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\hendr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\hendr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\hendr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.19\\microsoft.netcore.app.host.win-x64.7.0.19.nupkg.sha512"
   ],
   "logs": []
 }

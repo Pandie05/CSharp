@@ -3,3 +3,4 @@ C:\Users\hendr\OneDrive\Desktop\CSharp\obj\Debug\net7.0\CSharp.GeneratedMSBuildE
 C:\Users\hendr\OneDrive\Desktop\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfoInputs.cache
 C:\Users\hendr\OneDrive\Desktop\CSharp\obj\Debug\net7.0\CSharp.AssemblyInfo.cs
 C:\Users\hendr\OneDrive\Desktop\CSharp\obj\Debug\net7.0\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\hendr\OneDrive\Desktop\CSharp\obj\Debug\net7.0\CSharp.sourcelink.json
