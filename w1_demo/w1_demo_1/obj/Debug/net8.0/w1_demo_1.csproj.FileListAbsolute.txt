@@ -1,0 +1,15 @@
+C:\Users\hendr\OneDrive\Desktop\CSharp\w1_demo\w1_demo_1\obj\Debug\net8.0\w1_demo_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hendr\OneDrive\Desktop\CSharp\w1_demo\w1_demo_1\obj\Debug\net8.0\w1_demo_1.AssemblyInfoInputs.cache
+C:\Users\hendr\OneDrive\Desktop\CSharp\w1_demo\w1_demo_1\obj\Debug\net8.0\w1_demo_1.AssemblyInfo.cs
+C:\Users\hendr\OneDrive\Desktop\CSharp\w1_demo\w1_demo_1\obj\Debug\net8.0\w1_demo_1.csproj.CoreCompileInputs.cache
+C:\Users\hendr\OneDrive\Desktop\CSharp\w1_demo\w1_demo_1\obj\Debug\net8.0\w1_demo_1.sourcelink.json
+C:\Users\hendr\OneDrive\Desktop\CSharp\w1_demo\w1_demo_1\bin\Debug\net8.0\w1_demo_1.exe
+C:\Users\hendr\OneDrive\Desktop\CSharp\w1_demo\w1_demo_1\bin\Debug\net8.0\w1_demo_1.deps.json
+C:\Users\hendr\OneDrive\Desktop\CSharp\w1_demo\w1_demo_1\bin\Debug\net8.0\w1_demo_1.runtimeconfig.json
+C:\Users\hendr\OneDrive\Desktop\CSharp\w1_demo\w1_demo_1\bin\Debug\net8.0\w1_demo_1.dll
+C:\Users\hendr\OneDrive\Desktop\CSharp\w1_demo\w1_demo_1\bin\Debug\net8.0\w1_demo_1.pdb
+C:\Users\hendr\OneDrive\Desktop\CSharp\w1_demo\w1_demo_1\obj\Debug\net8.0\w1_demo_1.dll
+C:\Users\hendr\OneDrive\Desktop\CSharp\w1_demo\w1_demo_1\obj\Debug\net8.0\refint\w1_demo_1.dll
+C:\Users\hendr\OneDrive\Desktop\CSharp\w1_demo\w1_demo_1\obj\Debug\net8.0\w1_demo_1.pdb
+C:\Users\hendr\OneDrive\Desktop\CSharp\w1_demo\w1_demo_1\obj\Debug\net8.0\w1_demo_1.genruntimeconfig.cache
+C:\Users\hendr\OneDrive\Desktop\CSharp\w1_demo\w1_demo_1\obj\Debug\net8.0\ref\w1_demo_1.dll
